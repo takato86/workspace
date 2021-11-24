@@ -1,0 +1,8 @@
+w2v:
+  model_name: all
+  vocab_size: 32000
+  norm: 2
+  hoge: hogehoge
+  lr: 0.001
+model:
+  hidden_size: 256
